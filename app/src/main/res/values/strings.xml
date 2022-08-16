@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CryptocurrencyApp</string>
+
+    <string-array name="CurrencySymbols">
+        <item>USD</item>
+        <item>TRY</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview_1">Textview 1</string>
+    <string name="textview_2">Textview 2</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">RESULT</string>
+</resources>

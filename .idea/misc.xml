@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/drawable/button.xml" value="0.3536458333333333" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/drawable/customborder.xml" value="0.3482051282051282" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/drawable/design.xml" value="0.3536458333333333" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/drawable/designex.xml" value="0.3536458333333333" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/drawable/designx.xml" value="0.3536458333333333" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3536458333333333" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/drawable/linedivider.xml" value="0.3482051282051282" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/layout/activity_details.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/layout/button.xml" value="0.3323076923076923" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyApp/app/src/main/res/layout/row_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyAppLast/app/src/main/res/layout-v28/row_layout.xml" value="0.26875" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyAppLast/app/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyAppLast/app/src/main/res/layout/fragment_convert.xml" value="0.26875" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyAppLast/app/src/main/res/layout/fragment_currencies.xml" value="0.2754782700075322" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyAppLast/app/src/main/res/layout/fragment_splash.xml" value="0.26875" />
+        <entry key="..\:/AndroidStudioProjects/CryptocurrencyAppLast/app/src/main/res/layout/row_layout.xml" value="0.26875" />
+        <entry key="..\:/CryptocurrencyApp2.1/app/src/main/res/layout/activity_main.xml" value="0.2754782700075322" />
+        <entry key="..\:/CryptocurrencyApp2.1/app/src/main/res/layout/fragment_convert.xml" value="0.26875" />
+        <entry key="..\:/CryptocurrencyApp2.1/app/src/main/res/layout/fragment_currencies.xml" value="0.10344827586206896" />
+        <entry key="..\:/CryptocurrencyAppLast/app/src/main/res/layout/activity_details.xml" value="0.26875" />
+        <entry key="..\:/CryptocurrencyAppLast/app/src/main/res/layout/fragment_convert.xml" value="0.26875" />
+        <entry key="..\:/CryptocurrencyAppLast/app/src/main/res/layout/row_layout.xml" value="0.26875" />
+        <entry key="..\:/CryptocurrencyAppLast/app/src/main/res/layout/toast.xml" value="0.26875" />
+        <entry key="..\:/CryptocurrencyAppLast/app/src/main/res/layout/toast_layout_root.xml" value="0.26875" />
+        <entry key="..\:/Test/app/src/main/res/layout/activity_details.xml" value="0.26875" />
+        <entry key="..\:/Test/app/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/Users/hkkrk/StudioProjects/CryptocurrencyApp/app/src/main/res/layout/activity_details.xml" value="0.26875" />
+        <entry key="..\:/Users/hkkrk/StudioProjects/CryptocurrencyApp/app/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/Users/hkkrk/StudioProjects/CryptocurrencyApp/app/src/main/res/layout/row_layout.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="com.google.gson.annotations.SerializedName" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
